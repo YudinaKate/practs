@@ -1,0 +1,6 @@
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\bin\Debug\PRACTA3_3.exe.config
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\bin\Debug\PRACTA3_3.exe
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\bin\Debug\PRACTA3_3.pdb
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\obj\Debug\PRACTA3_3.csprojResolveAssemblyReference.cache
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\obj\Debug\PRACTA3_3.exe
+C:\Users\79155\Documents\УП_03\PRACTA3_3\PRACTA3_3\obj\Debug\PRACTA3_3.pdb
